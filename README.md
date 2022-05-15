@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on mobile and web applicaitions
 - 📫 How to reach me anthonygibson24@gmail.com
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/5" alt="Recent Article 5"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/10"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/10" alt="Recent Article 10"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/9" alt="Recent Article 9"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/4" alt="Recent Article 4"> 
   
 
