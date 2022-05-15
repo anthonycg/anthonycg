@@ -5,7 +5,7 @@
 - 📫 How to reach me anthonygibson24@gmail.com
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/0" alt="Recent Article 0"> 
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/1" alt="Recent Article 2"> 
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/3" alt="Recent Article 3"> 
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/4" alt="Recent Article 4"> 
   
 
 <!---
