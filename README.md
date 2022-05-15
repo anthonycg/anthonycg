@@ -7,6 +7,7 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/5" alt="Recent Article 5"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/4" alt="Recent Article 4"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/0" alt="Recent Article 0"> 
 
   
 
