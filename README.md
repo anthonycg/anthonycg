@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Anthony Gibson
-- 👀 I’m interested in machine learning, stocks, and music
+- 👀 I’m interested in machine learning, photography, stocks, and music
+- 🧘 I'm passionate about inspiring others, mindfulness, and educating my community
 - 🌱 I’m currently learning MongoDB, Express.js, React.js, and Node.js at Coding Dojo ⛩️
 - 💞️ I’m looking to collaborate on mobile and web applicaitions
 - 📫 How to reach me anthonygibson24@gmail.com
