@@ -6,8 +6,7 @@
 - 📫 How to reach me anthonygibson24@gmail.com
 
 - 📜 Resume is HERE: https://github.com/anthonycg/resume/blob/main/Anthony%20Gibson%20Resume%20PDF.pdf
-- 💻 DEMO of CRUD application I built: 
-
+- 💻 DEMO of CRUD application I built: https://youtu.be/wzYxtntBM-E
 - 📝 I've been documenting my code journey on Medium.com, check out some of my stories below:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/5" alt="Recent Article 5"> 
