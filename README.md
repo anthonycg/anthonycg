@@ -6,6 +6,7 @@
 - 📫 How to reach me anthonygibson24@gmail.com
 
 - 📜 Resume is HERE: https://github.com/anthonycg/resume/blob/main/Anthony%20Gibson%20Resume%20PDF.pdf
+- 💻 DEMO of CRUD application I built: 
 
 - 📝 I've been documenting my code journey on Medium.com, check out some of my stories below:
 
