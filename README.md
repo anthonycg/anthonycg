@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anthony Gibson!
+- 👋 Hi, I’m Anthony Gibson
 - 👀 I’m interested in machine learning, photography, stocks, and music
 - 🧘 I'm passionate about inspiring others, mindfulness, and educating my community
 - 🌱 I’m currently learning MongoDB, Express.js, React.js, and Node.js at Coding Dojo ⛩️
