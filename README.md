@@ -9,7 +9,7 @@
 - 💻 DEMO of CRUD application I built: https://youtu.be/wzYxtntBM-E
 - 📝 I've been documenting my code journey on Medium.com, check out some of my stories below:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/5" alt="Recent Article 5"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/8" alt="Recent Article 5"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/4" alt="Recent Article 4"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/1" alt="Recent Article 1"> 
 
