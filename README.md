@@ -5,11 +5,11 @@
 - 💞️ I’m looking to collaborate on mobile and web applicaitions
 - 📫 How to reach me anthony.gibson9494@gmail.com
 
-- 📜 Resume is HERE: https://github.com/anthonycg/resume/blob/main/Anthony%20Gibson%20ResumePDF.pdf
+- 📜 Resume is HERE: https://github.com/anthonycg/resume/blob/main/Anthony%20Gibson%20RESUME.pdf
 - 💻 DEMO of CRUD application I built: https://youtu.be/wzYxtntBM-E
 - 📝 I've been documenting my code journey on Medium.com, check out some of my stories below:
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/8" alt="Recent Article 5"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/8" alt="Recent Article 5"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/4" alt="Recent Article 4"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/1" alt="Recent Article 1"> 
 
