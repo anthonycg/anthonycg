@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Anthony Gibson!
 - 👀 I’m interested in machine learning, photography, stocks, and music
 - 🧘 I'm passionate about inspiring others, mindfulness, and educating my community
-- 🌱 I’m currently learning MongoDB, Express.js, React.js, and Node.js at Coding Dojo ⛩️
+- 🌱 I’m currently learning Cloud technologies ☁️
 - 💞️ I’m looking to collaborate on mobile and web applicaitions
 - 📫 How to reach me anthony.gibson9494@gmail.com
 
 - 📜 Resume is HERE: https://github.com/anthonycg/resume/blob/main/Anthony%20Gibson%20RESUME.pdf
-- 💻 DEMO of CRUD application I built: https://youtu.be/wzYxtntBM-E
+- 💻 DEMO of CRUD application I built: https://www.youtube.com/watch?v=-_NXNHyTKts&t=7s
 - 📝 I've been documenting my code journey on Medium.com, check out some of my stories below:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anthonycg_/2" alt="Recent Article 5"> 
