@@ -1,3 +1,4 @@
+![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
 - 👋 Hi, I’m Anthony Gibson!
 - 👀 I’m interested in machine learning, photography, stocks, and music
 - 🧘 I'm passionate about inspiring others, mindfulness, and educating my community
