@@ -1,4 +1,4 @@
-![counter](https://[https://github.com/anthonycg/anthonycg].m.pipedream.net)
+![counter](https://[https://github.com/anthonycg/].m.pipedream.net)
 - 👋 Hi, I’m Anthony Gibson!
 - 👀 I’m interested in machine learning, photography, stocks, and music
 - 🧘 I'm passionate about inspiring others, mindfulness, and educating my community
