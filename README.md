@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on mobile and web applicaitions
 - 📫 How to reach me anthony.gibson9494@gmail.com
 
-- 📜 Resume is HERE: https://github.com/anthonycg/resume/blob/main/Anthony%20Gibson%2C%20RESUME.pdf
+- 📜 Resume is HERE: https://github.com/anthonycg/
 - 💻 DEMO of CRUD application I built: https://www.youtube.com/watch?v=-_NXNHyTKts&t=7s
 - 📝 I've been documenting my code journey on Medium.com, check out some of my stories below:
 
